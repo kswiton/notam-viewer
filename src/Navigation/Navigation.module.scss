@@ -1,0 +1,28 @@
+.leftMenuWrapper {
+  position: relative;
+  width: 200px;
+}
+.leftMenuWrapperCollapsed {
+  position: relative;
+  width: 50px;
+}
+
+.logo {
+  display: flex;
+  justify-content: center;
+  font-size: 40px;
+  font-family: monospace;
+  font-weight: 700;
+  color: cadetblue;
+  padding: 15px;
+}
+
+.collapseButton {
+  position: absolute;
+  right: 0px;
+}
+
+.navLink {
+  text-decoration: none;
+  color: black;
+}
